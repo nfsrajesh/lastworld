@@ -1,0 +1,1 @@
+web gunicorn lastworld.wsgi:application --log-file -
